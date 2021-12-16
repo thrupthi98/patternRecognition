@@ -1,5 +1,5 @@
-# sokobanPlayer
-a 2 layer, 2D convolutional network is implemented to recognise the handwritten numbers.
+# Pattern Recognition
+A 2 layer, 2D convolutional network is implemented to recognise the handwritten numbers.
 
 ## Inputs:
 * 32X32, 2D binary array to represent the handwritten digits.
